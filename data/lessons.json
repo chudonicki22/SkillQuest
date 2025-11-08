@@ -1,0 +1,107 @@
+[
+  {
+    "theme": "General",
+    "questions": [
+      {
+        "id": 101,
+        "q": "Сколько минут в 5 часах?",
+        "options": [
+          "240",
+          "300",
+          "360"
+        ],
+        "answer": 1
+      },
+      {
+        "id": 102,
+        "q": "Столица Японии?",
+        "options": [
+          "Осака",
+          "Киото",
+          "Токио"
+        ],
+        "answer": 2
+      },
+      {
+        "id": 103,
+        "q": "2 + 2 × 2 = ?",
+        "options": [
+          "6",
+          "8",
+          "4"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "theme": "English",
+    "questions": [
+      {
+        "id": 201,
+        "q": "Choose the correct form: She ___ to school.",
+        "options": [
+          "go",
+          "goes",
+          "going"
+        ],
+        "answer": 1
+      },
+      {
+        "id": 202,
+        "q": "Translate: «книга»",
+        "options": [
+          "book",
+          "notebook",
+          "copybook"
+        ],
+        "answer": 0
+      },
+      {
+        "id": 203,
+        "q": "Past of «buy»",
+        "options": [
+          "buyed",
+          "bought",
+          "buied"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "theme": "Finance",
+    "questions": [
+      {
+        "id": 301,
+        "q": "Маржа = Выручка 100, Себестоимость 60. Маржа?",
+        "options": [
+          "40",
+          "60",
+          "160"
+        ],
+        "answer": 0
+      },
+      {
+        "id": 302,
+        "q": "LTV чаще всего означает:",
+        "options": [
+          "Lead to Value",
+          "Lifetime Value",
+          "Long-term View"
+        ],
+        "answer": 1
+      },
+      {
+        "id": 303,
+        "q": "ROI = (Прибыль / Инвестиции)×100%. Прибыль 20, Инвестиции 100. ROI?",
+        "options": [
+          "2%",
+          "10%",
+          "20%"
+        ],
+        "answer": 1
+      }
+    ]
+  }
+]
